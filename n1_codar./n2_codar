@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+ int main() {
+ int numero1 = Nome da Cidade: Fortaleza População: 12325000 Área: 1521.11 km² PIB: 699.28 bilhões de reais Número de Pontos Turísticos: 50;
+ int numero2 = Nome da Cidade: Manaus Código: B02 População: 6748000 Área: 1200.25 km² PIB: 300.50 bilhões de reais Número de Pontos Turísticos: 30;
+
+ if (numero1 < numero2) {
+    printf(numero1 é maior que numero2\n);
+ }
+   return0;
+
+}
